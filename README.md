@@ -2,7 +2,15 @@
 How I built it
 ---
 
-Prototype idea for monetizing educational guides on hackathons from devpost project pages
+Idea for Hack Devpost 2023.
+
+Enable creators to monetize educational guides on their hackathons from devpost project pages.
+
+### Mockup
+
+<p align='center'>
+    <img src="./img/button.png" width=600 />
+</p>
 
 ## Inspiration
 
@@ -26,6 +34,4 @@ Enhanced educational resources: The 'How I Built It' guide would serve as an edu
 
 Long-term impact: By preserving the knowledge and experience gained during the hackathon, the 'How I Built It' guide would ensure that the impact of the project continues long after the hackathon is over. This could lead to new innovations, solutions, and applications of the project, enhancing its overall impact.
 
-### Mockup
 
-<img src="./img/button.png" width=800 />
